@@ -23,9 +23,9 @@ Eso te confirmará que quedaron instalados.
 ✅Resultado explicado
 Host Version: 8.0.19 → tienes instalado .NET 8 runtime en la versión correcta.
 
-# Architecture: x64 → tu sistema es de 64 bits, todo ok.
+### Architecture: x64 → tu sistema es de 64 bits, todo ok.
 
-# RID: ubuntu.24.04-x64 → detecta correctamente tu Ubuntu 24.04.
+## RID: ubuntu.24.04-x64 → detecta correctamente tu Ubuntu 24.04.
 
  .NET SDKs installed: No SDKs were found. → significa que solo instalaste el runtime, no el SDK. Esto es correcto para ejecutar apps, pero si necesitas compilar directamente en el servidor tendrás que instalar el SDK (dotnet-sdk-8.0).
 
